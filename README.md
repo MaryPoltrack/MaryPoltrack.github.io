@@ -1,3 +1,7 @@
-# MaryPoltrack.github.io
-Mary Poltrack's GitHub
-This is my personal GitHub
+# Captain Mary Poltrack
+United States Marine Corps
+Operations Research Student
+
+# Contact Me
+Email: mary.poltrack@nps.edu
+Phone: 812-530-6747
